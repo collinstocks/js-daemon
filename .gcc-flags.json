@@ -1,0 +1,8 @@
+{
+  "execPath": "/usr/bin/g++",
+  "gccDefaultCFlags": "-Wall",
+  "gccDefaultCppFlags": "-Wall -std=c++14",
+  "gccErrorLimit": 15,
+  "gccIncludePaths": ".,./include,./path,/usr/local/include/mozjs-53",
+  "gccSuppressWarnings": true
+}
